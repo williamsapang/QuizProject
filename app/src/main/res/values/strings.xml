@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz Project</string>
+    <string name="question_1">Question 1</string>
+    <string name="question_2">Question 2</string>
+    <string name="pertanyaan1">Which of these describe Io the best?</string>
+    <string name="answer_nuker">Nuker</string>
+    <string name="pertanyaan2">Which of these heroes is a dedicated lane support?</string>
+    <string name="question_3">Question 3</string>
+    <string name="pertanyaan3">Which brand of hero is Viper?</string>
+    <string name="question_4">Question 4</string>
+    <string name="pertanyaan4">Which of these would end a kill streak assuming there are assisting heroes?</string>
+</resources>
